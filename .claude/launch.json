@@ -2,7 +2,7 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "boda-lucia-y-abner",
+      "name": "boda-christopher-y-tania",
       "runtimeExecutable": "npx",
       "runtimeArgs": ["serve", "-l", "3492", "."],
       "port": 3492
